@@ -1,4 +1,7 @@
 ## study-of-basic-gates
+## Developed by: Renick Fabian Rajesh
+## Reg Number: 212224230227
+## Date : 14/10/2025
 
 **AIM:** 
 
@@ -79,10 +82,7 @@ assign f7=~(a^b);
 endmodule
 ```
 
-```
- Developed by: Renick Fabian Rajesh
- RegisterNumber: 212224230227
-```
+
  
 **Logic symbol & Truthtable**
 
